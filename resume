@@ -1,29 +1,9 @@
-# Sophia McMahon
-# Pullman, WA • sophiamcmahon02@gmail.com • (760) 861-1155
-# Purpose: Passionate and motivated Software Engineering undergraduate seeking professional experience to contribute positively to the world. Proficient in full-stack development and experienced in project development, computer science tutoring, and software engineering internships. Seeking opportunities to leverage my skills in full-stack development while studying abroad and interning in Tokyo, Japan.
-# Education: WASHINGTON STATE UNIVERSITY Pullman, WA. B.S in Software Engineering, May 2025.
-# Relevant Coursework: Principles of Computer Programming, Object-Oriented Programming & Data, Introduction to
-# Programming Languages, Computer Systems Fundamentals, Computer Organization/Assembly Language Programming
-# Experience:
-# Free+ International School - Tokyo, Japan
-# Software Engineering Intern June 2023 - August 2023
-# • Leveraging React.js and WordPress to overhaul the school’s website, optimizing user interface and experience.
-# • Utilizing JavaScript and CSS to create interactive photos and animations, enhancing the site’s aesthetics and interactivity.
-# • Integrating the school’s LINE page into the website to streamline communication and enrich the website’s functionality using third-party APIs, demonstrating problem-solving skills and initiative.
-# • Acquiring and applying relevant skills such as HTML, CSS, React.js, and WordPress in real-world projects to improve website performance and user satisfaction.
-# DevilBot - Tempe, AZ
-# Backend Software Development December 2022 – June 2023
-# • Developed a robust backend system for a Slack bot, improving communication and collaboration for the CodeDevils team. The system has since been adopted by 2,600 users.
-# • Leveraged AWS CDK for efficient resource management of all components, enhancing the system’s scalability and reliability.
-# • Engineered a feature to auto-send messages to the DevilBotDev channel when new users join, driving real-time notifications and team updates.
-# • Utilized key skills in Rust, AWS, Node.js, and team collaboration tools to deliver solutions that improved team productivity and communication.
-# CDShort - Tempe, AZ
-# Frontend Software Development December 2022 – June 2023
-# • Developed frontend features for the official CodeDevils’ URL shortener, LinkTree clone, and QR Code generator, enhancing the organization’s online presence and providing efficient access to information.
-# • Utilized the Ionic framework to implement a ‘404 Not Found’ page, optimizing user experience by ensuring seamless URL redirection.
-# • Implemented a user-centric feature enabling CodeDevils members to generate short links by codename, enhancing accessibility and ease of sharing.
-# • Demonstrated knowledge in HTML, CSS, Angular, along with some troubleshooting and code review skills, resulting in enhanced website performance and team coding standards.
-# Relevant Skills:
-# Coding Languages: Java, Python, C/C++, Rust, JavaScript
-# Technical: HTML, CSS, Node.js, React.js, Git, Angular, Firebase
-# General: Leadership, Problem Solving
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body>
+    <a href=file:///C:/Users/Sophia%20McMahon/Downloads/Resume+-+Fall+2023.pdf</a>
+</body>
+</html>
